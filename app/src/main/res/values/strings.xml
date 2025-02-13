@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="total_questions">Total Questions</string>
+    <string name="question_text">This will be the question</string>
+    <string name="ans_a">Answer A</string>
+    <string name="ans_b">Answer B</string>
+    <string name="ans_c">Answer C</string>
+    <string name="ans_d">Answer D</string>
+    <string name="submit">Submit</string>
+    <string name="restart">Restart</string>
+</resources>

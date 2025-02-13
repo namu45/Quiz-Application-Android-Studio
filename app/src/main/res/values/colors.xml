@@ -1,0 +1,13 @@
+<resources>
+    <!-- Colors for the app -->
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="pale_lavender">#E1D5E7</color>
+
+    <!-- Custom colors for correct/incorrect answers -->
+    <color name="correct_answer">#4CAF50</color> <!-- Green -->
+    <color name="wrong_answer">#F44336</color> <!-- Red -->
+    <color name="app_background">#E0F7FA</color> <!-- Light Blue -->
+</resources>
